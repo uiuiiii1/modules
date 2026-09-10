@@ -1,0 +1,48 @@
+# Keil / MDK-ARM 编译产物
+*.o
+*.obj
+*.d
+*.htm
+*.html
+*.txt.build
+*.crf
+*.sct
+*.lnp
+*.map
+*.axf
+*.elf
+*.hex
+*.bin
+*.dep
+*.lst
+*.lnk
+*.i
+*.su
+
+# Keil 临时与用户界面文件
+Objects/
+Output/
+Listings/
+DebugConfig/
+*.uvoptx
+*.uvopt
+*.uvguix.*
+*.bak
+*.bak*
+*.swp
+
+# 临时文件
+*.bak
+*.tmp
+*.swp
+*~
+*.orig
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+*.code-workspace
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
